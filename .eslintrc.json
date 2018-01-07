@@ -12,7 +12,8 @@
     "plugin:react/recommended"
   ],
   "rules": {
-    "require-jsdoc": "off",
-    "max-len": 1
+    "require-jsdoc": 0,
+    "max-len": 1,
+    "arrow-parens": 0
   }
 }
