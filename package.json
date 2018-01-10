@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "babel-eslint": "^8.1.2",
+    "cross-fetch": "^1.1.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
